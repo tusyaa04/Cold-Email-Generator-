@@ -86,12 +86,10 @@ Networking
 Job URL (Required for Job Inquiry and Application Follow-up): The URL of the job posting.
 
 
-![Screenshot (110)](https://github.com/user-attachments/assets/f6564515-bb5f-4632-8962-8556f0cc2073)
-![Screenshot (109)](https://github.com/user-attachments/assets/92cc5fdb-daf1-4cb6-8601-cdc77f66fd00)
-
 4. For Networking, the Job URL is not required. Simply provide your Profile Summary and desired Email Tone, and the app will generate an email focused on professional connections, advice, or opportunities.
 
 
 5. Click Generate Cold Email to get your personalized email.
-
+![Screenshot (101)](https://github.com/user-attachments/assets/391dd2f6-54c0-4626-ad5c-9ae2687d7d90)
+![Screenshot (110)](https://github.com/user-attachments/assets/16af1e6f-c9b9-40c1-9571-313b425dcaa2)
 
